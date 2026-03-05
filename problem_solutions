@@ -27,3 +27,64 @@ g_hamming can be done using the basis vectors as rows
 1001101
 0101011
 0010111
+
+
+
+12.
+
+[0, 0, 1, 0, 0, 1, 0, 0, 1], ERROR in bit 0 Corrected row: [1, 0, 1, 0, 0, 1, 0, 0, 1]
+[0, 1, 1, 0, 0, 1, 1, 0, 0], ERROR in bit 2 Corrected row: [0, 1, 0, 0, 0, 1, 1, 0, 0]
+[1, 0, 1, 0, 1, 1, 1, 1, 1], ERROR in bit 0 Corrected row: [0, 0, 1, 0, 1, 1, 1, 1, 1]
+[0, 0, 1, 0, 0, 0, 0, 0, 0], ERROR in bit 2 Corrected row: [0, 0, 0, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 1, 1, 1, 1, 0, 0], ERROR in bit 2 Corrected row: [0, 0, 1, 1, 1, 1, 1, 0, 0]
+[1, 0, 0, 1, 0, 1, 1, 0, 1], ERROR in bit 8 Corrected row: [1, 0, 0, 1, 0, 1, 1, 0, 0]
+[0, 0, 1, 0, 1, 1, 1, 0, 1], ERROR in bit 7 Corrected row: [0, 0, 1, 0, 1, 1, 1, 1, 1]
+[0, 0, 0, 0, 1, 1, 1, 0, 1], ERROR in bit 6 Corrected row: [0, 0, 0, 0, 1, 1, 0, 0, 1]
+[0, 0, 1, 0, 0, 1, 0, 0, 1], ERROR in bit 0 Corrected row: [1, 0, 1, 0, 0, 1, 0, 0, 1]
+[0, 0, 1, 0, 1, 1, 0, 1, 1], ERROR in bit 6 Corrected row: [0, 0, 1, 0, 1, 1, 1, 1, 1]
+[1, 0, 0, 0, 1, 0, 1, 0, 1], ERROR in bit 3 Corrected row: [1, 0, 0, 1, 1, 0, 1, 0, 1]
+[1, 0, 1, 0, 1, 1, 0, 0, 1], ERROR in bit 4 Corrected row: [1, 0, 1, 0, 0, 1, 0, 0, 1]
+[0, 0, 0, 0, 0, 0, 0, 1, 0], ERROR in bit 7 Corrected row: [0, 0, 0, 0, 0, 0, 0, 0, 0]
+[0, 1, 0, 0, 1, 0, 0, 1, 1], ERROR in bit 2 Corrected row: [0, 1, 1, 0, 1, 0, 0, 1, 1]
+[0, 1, 0, 0, 1, 0, 0, 0, 1], ERROR in bit 6 Corrected row: [0, 1, 0, 0, 1, 0, 1, 0, 1]
+[1, 0, 0, 1, 1, 0, 1, 1, 1], ERROR in bit 7 Corrected row: [1, 0, 0, 1, 1, 0, 1, 0, 1]
+[1, 0, 0, 0, 0, 1, 0, 0, 1], ERROR in bit 2 Corrected row: [1, 0, 1, 0, 0, 1, 0, 0, 1]
+[0, 0, 0, 0, 1, 1, 0, 0, 1]
+[0, 1, 0, 1, 0, 0, 1, 1, 0], ERROR in bit 4 Corrected row: [0, 1, 0, 1, 1, 0, 1, 1, 0]
+[0, 0, 1, 0, 0, 1, 1, 1, 1], ERROR in bit 4 Corrected row: [0, 0, 1, 0, 1, 1, 1, 1, 1]
+[0, 0, 0, 0, 0, 0, 0, 0, 0]
+[0, 1, 0, 0, 1, 0, 1, 1, 1], ERROR in bit 7 Corrected row: [0, 1, 0, 0, 1, 0, 1, 0, 1]
+[1, 0, 0, 1, 1, 0, 1, 0, 1]
+[0, 0, 0, 0, 0, 0, 0, 0, 0]
+[1, 0, 1, 0, 0, 1, 0, 0, 1]
+[0, 1, 1, 1, 1, 0, 0, 0, 0]
+[0, 0, 1, 0, 0, 0, 0, 0, 0], ERROR in bit 2 Corrected row: [0, 0, 0, 0, 0, 0, 0, 0, 0]
+[0, 1, 0, 0, 1, 0, 1, 0, 1]
+[0, 1, 1, 0, 1, 1, 0, 1, 1], ERROR in bit 5 Corrected row: [0, 1, 1, 0, 1, 0, 0, 1, 1]
+[0, 0, 0, 0, 1, 0, 0, 0, 1], ERROR in bit 5 Corrected row: [0, 0, 0, 0, 1, 1, 0, 0, 1]
+[0, 0, 0, 1, 1, 1, 1, 0, 0], ERROR in bit 2 Corrected row: [0, 0, 1, 1, 1, 1, 1, 0, 0]
+[0, 1, 0, 0, 1, 1, 1, 0, 1], ERROR in bit 5 Corrected row: [0, 1, 0, 0, 1, 0, 1, 0, 1]
+[1, 1, 1, 1, 0, 1, 0, 0, 1], ERROR in bit 0 Corrected row: [0, 1, 1, 1, 0, 1, 0, 0, 1]
+[0, 0, 1, 0, 1, 0, 1, 1, 1], ERROR in bit 5 Corrected row: [0, 0, 1, 0, 1, 1, 1, 1, 1]
+[0, 0, 0, 0, 0, 0, 0, 0, 0]
+[1, 0, 1, 1, 0, 1, 0, 0, 1], ERROR in bit 3 Corrected row: [1, 0, 1, 0, 0, 1, 0, 0, 1]
+[0, 0, 0, 0, 0, 1, 1, 0, 0], ERROR in bit 1 Corrected row: [0, 1, 0, 0, 0, 1, 1, 0, 0]
+[0, 0, 0, 0, 1, 1, 0, 0, 1]
+[1, 0, 1, 0, 0, 1, 0, 0, 1]
+[0, 0, 0, 0, 0, 1, 0, 0, 0], ERROR in bit 5 Corrected row: [0, 0, 0, 0, 0, 0, 0, 0, 0]
+[1, 0, 1, 1, 1, 0, 0, 0, 1], ERROR in bit 7 Corrected row: [1, 0, 1, 1, 1, 0, 0, 1, 1]
+[1, 0, 1, 0, 1, 1, 1, 1, 1], ERROR in bit 0 Corrected row: [0, 0, 1, 0, 1, 1, 1, 1, 1]
+[0, 0, 0, 0, 0, 0, 1, 0, 0], ERROR in bit 6 Corrected row: [0, 0, 0, 0, 0, 0, 0, 0, 0]
+[0, 1, 1, 1, 0, 1, 0, 0, 1]
+[0, 0, 1, 1, 1, 1, 1, 1, 1], ERROR in bit 3 Corrected row: [0, 0, 1, 0, 1, 1, 1, 1, 1]
+[1, 0, 1, 1, 0, 1, 0, 0, 0], ERROR in bit 7 Corrected row: [1, 0, 1, 1, 0, 1, 0, 1, 0]
+[0, 0, 1, 0, 1, 0, 1, 1, 1], ERROR in bit 5 Corrected row: [0, 0, 1, 0, 1, 1, 1, 1, 1]
+[1, 0, 0, 1, 0, 0, 1, 0, 0], ERROR in bit 5 Corrected row: [1, 0, 0, 1, 0, 1, 1, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 1], ERROR in bit 8 Corrected row: [0, 0, 0, 0, 0, 0, 0, 0, 0]
+[0, 0, 1, 0, 0, 1, 1, 1, 1], ERROR in bit 4 Corrected row: [0, 0, 1, 0, 1, 1, 1, 1, 1]
+[1, 1, 0, 1, 0, 1, 1, 0, 0], ERROR in bit 1 Corrected row: [1, 0, 0, 1, 0, 1, 1, 0, 0]
+[1, 0, 0, 1, 0, 1, 1, 0, 0]
+
+the greatest mistake is to imagine that we never err
+
+Message completed
