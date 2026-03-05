@@ -1,0 +1,29 @@
+3. One example of error-correcting codes in CS is in CDs, which from what I understand have a very small error detection and correction area, which acts to protect against corruption from scratches and the like.
+
+4. A basis of v_hamming can be taken by vectors in the set.
+
+01010101
+00110011
+00001111
+01100110
+01011010
+00111100
+01101001
+
+|
+v
+
+100
+010
+001
+110
+101
+011
+111
+
+
+g_hamming can be done using the basis vectors as rows
+
+1001101
+0101011
+0010111
